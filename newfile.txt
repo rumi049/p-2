@@ -1,3 +1,4 @@
 hello ............
 another brance test
-edit localy
+edit locally
+creat a new branch locally and add some text
